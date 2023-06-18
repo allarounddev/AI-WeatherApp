@@ -32,7 +32,7 @@ StepZen account and API key
 
 Clone the repository:
 ```bash
-git clone https://github.com/allarounddev/AI_weather-app
+git clone https://github.com/allarounddev/AI-WeatherApp
 ```
 
 Change directory to the project folder:
